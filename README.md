@@ -2,6 +2,12 @@
 Workout pal - A CLI tool written in python to server as an exercises inventory
 based on available means (body-weight, resistance bands, full gym etc).
 
+
+## Why?
+Now that COVID-19 is forcing people to stay at home and also workout at home, I
+wanted a fast exercise inventory for the command-line where I can easily get the
+list of exercises instead of randomly googling every  time.
+
 #### Usage:
 
 ```bash
